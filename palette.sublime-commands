@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Reverse characters in selected section",
+        "command": "reverse_characters"
+    }
+]
